@@ -33,7 +33,7 @@ Nouns:
 items, name, unit price, quantity, orders, customer name, item, date
 
 ## Database Design
-
+![schema](schema.png)
 
 ### Table Overview
 ```bash
