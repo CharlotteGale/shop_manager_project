@@ -83,7 +83,7 @@ CREATE TABLE items_orders (
 
 ### Seed the Database
 ```bash
-psql 127.0.0.1 -h shop_manager < seeds/shop_manager.sql
+psql -h 127.0.0.1 shop_manager < seeds/shop_manager.sql
 ```
 
 ## The Class Interfaces
